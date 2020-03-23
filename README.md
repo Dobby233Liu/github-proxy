@@ -1,7 +1,7 @@
 # GitHub 代下载服务
 [![G.widora.cn 互粉群](https://pub.idqqimg.com/wpa/images/group.png "G.widora.cn 互粉群")](https://shang.qq.com/wpa/qunwpa?idkey=f65cb90612db81ef9bee771440adb40c004933a18b7c0466a279486936aedc79)
 ![question_goes_to_qq-9496898-red](https://img.shields.io/badge/question_goes_to_qq-9496898-red)
-[![based_on-workerMan-aqua](https://img.shields.io/badge/based_on-workerMan-aqua)](https://www.workerman.net/)
+[![based_on-workerMan-blue](https://img.shields.io/badge/based_on-workerMan-blue)](https://www.workerman.net/)
 [![demo-g.widora.cn-yellowgreen](https://img.shields.io/badge/demo-g.widora.cn-yellowgreen)](https://g.widora.cn)
 
 **注：本程序为简单实现，因纯属业余时间编写，开发比较仓促，欢迎完善。请遵循法律法规，不要用来做违法的事情。**
